@@ -17,9 +17,9 @@ The problem is - given the number of holes in the centrifuge - for which differe
 
 -----The Solution:
 
-(1) Number of Test Tubes.
-(2) Number of Empty Spots in the Centrifuge.
-(3) Number of Holes in the Centrifuge.
+(1) Number of Test Tubes.<br />
+(2) Number of Empty Spots in the Centrifuge.<br />
+(3) Number of Holes in the Centrifuge.<br />
 
 You can balance the centrifuge if and only if both (1) and (2) can be 
 written as sums of prime factors of (3).
@@ -34,20 +34,20 @@ The prime factors of 12 are 2 and 3.
 
 You can have a balanced-configuration for 2, 3, 4, 5, 6, 7, 8, 9, 10, 12 test tubes in a 12-hole centrifuge.
 
-*Notice that, for example, for 5 test tubes, you have
-(1) Number of Test Tubes = 5;
-(2) Number of Empty Holes = 12 - 5 = 7.
+*Notice that, for example, for 5 test tubes, you have<br />
+(1) Number of Test Tubes = 5;<br />
+(2) Number of Empty Holes = 12 - 5 = 7.<br />
 
 Being that the prime factors of 12 are 2 and 3, you can easily see that you
-can write (1) and (2) as sums of those prime factors.
-(1) 5 = 2 + 3;
-(2) 7 = 2 + 2 + 3;
+can write (1) and (2) as sums of those prime factors.<br />
+(1) 5 = 2 + 3;<br />
+(2) 7 = 2 + 2 + 3;<br />
 
 So, you can have a 5 tubes balanced in a 12-hole centrifuge.
 
-**In the other hand, you can understand that if you have 11 test tubes you will never be able to have a balanced-configuration.
+**In the other hand, you can understand that if you have 11 test tubes you will never be able to have a balanced-configuration.<br />
 
-(1) Number of Test Tubes = 11.
-(2) Number of Empty Holes = 12 - 11 = 1.
+(1) Number of Test Tubes = 11.<br />
+(2) Number of Empty Holes = 12 - 11 = 1.<br />
 
 You can't write (1) or (2) as sums of the prime factors of 12 (which are, again, 2 and 3).
