@@ -5,7 +5,7 @@ This is one of the, probably many, ways to simulate this mathematical problem.
 
 
 
-**-----Description of the Problem:
+-----Description of the Problem:
 
 A centrifuge  is a laboratory device which spins liquid samples at high speed in order to separate them based on density. It’s very important to balance a centrifuge before operating it - not doing it by using, for example, just a tube on only one side, the rotating mass will not be balanced causing the centrifuge to shake when rotating and may even damage the centrifuge or the tube. A tube on the opposite side is used to balance the mass for smooth operation.
 
@@ -15,7 +15,7 @@ The problem is - given the number of holes in the centrifuge - for which differe
 
 
 
-**-----The Solution:
+-----The Solution:
 
 (1) Number of Test Tubes.
 (2) Number of Empty Spots in the Centrifuge.
@@ -26,7 +26,7 @@ written as sums of prime factors of (3).
 
 
 
-**-----Examples:
+-----Examples:
 
 For the case of a centrifuge with 12-holes.
 
@@ -34,7 +34,7 @@ The prime factors of 12 are 2 and 3.
 
 You can have a balanced-configuration for 2, 3, 4, 5, 6, 7, 8, 9, 10, 12 test tubes in a 12-hole centrifuge.
 
-* Notice that, for example, for 5 test tubes, you have
+*Notice that, for example, for 5 test tubes, you have
 (1) Number of Test Tubes = 5;
 (2) Number of Empty Holes = 12 - 5 = 7.
 
@@ -45,7 +45,7 @@ can write (1) and (2) as sums of those prime factors.
 
 So, you can have a 5 tubes balanced in a 12-hole centrifuge.
 
-* In the other hand, you can understand that if you have 11 test tubes you will never be able to have a balanced-configuration.
+**In the other hand, you can understand that if you have 11 test tubes you will never be able to have a balanced-configuration.
 
 (1) Number of Test Tubes = 11.
 (2) Number of Empty Holes = 12 - 11 = 1.
